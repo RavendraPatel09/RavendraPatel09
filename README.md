@@ -36,16 +36,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RavendraPatel09&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
----
-
-## 🟡 Project Showcase
-
-| 🏆 Project Name | 📜 Description | 🔗 Link |
-| :--- | :--- | :--- |
-| **[Project One Name]** | A brief description of what this project does and the tech used. | [View Code](#) |
-| **[Project Two Name]** | A brief description of what this project does and the tech used. | [View Code](#) |
-
----
 
 ## 🔵 Contribution Graph Snake 🐍
 
@@ -62,10 +52,10 @@
 ## 📫 Connect With Me
 
 <div align="center">
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:patelsamerth9@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/your-linkedin-profile">
+  <a href="https://www.linkedin.com/in/ravendra-patel-3bb375338/?skipRedirect=true">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
