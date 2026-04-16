@@ -28,29 +28,20 @@
 
 ## 🛸 About Me
 
-<table align="center" width="100%">
-  <tr>
-    <td width="55%" valign="top">
-      <h3>🌟 Who Am I?</h3>
-      <ul>
-        <li>💻 <b>Core Stack:</b> Crafting robust code in <b>C, C++, Python & JavaScript</b></li>
-        <li>🌱 <b>Currently Mastering:</b> Advanced <b>DSA, Database Systems & System Design</b></li>
-        <li>🎯 <b>Mission:</b> Building scalable, high-impact software solutions</li>
-        <li>🗄️ <b>Database Enthusiast:</b> Designing efficient schemas with <b>MySQL</b></li>
-        <li>🌐 <b>Web Dev:</b> Crafting clean UIs with <b>HTML, CSS & JavaScript</b></li>
-        <li>📍 <b>Location:</b> Madhya Pradesh, India 🇮🇳</li>
-        <li>⚡ <b>Fun Fact:</b> I turn coffee ☕ and complex logic into futuristic tech!</li>
-        <li>🏆 <b>Achievements:</b> Quickdraw · Pull Shark · YOLO on GitHub</li>
-      </ul>
-    </td>
-    <td width="45%" align="center" valign="top">
-      <h3>🏆 GitHub Trophies</h3>
-      <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=RavendraPatel09&theme=radical&margin-w=8&column=3&no-bg=true&no-frame=true" alt="Trophies" />
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+| | |
+|:---|:---|
+| 💻 **Core Stack** | Crafting robust code in **C, C++, Python & JavaScript** |
+| 🌱 **Currently Mastering** | Advanced **DSA, Database Systems & System Design** |
+| 🎯 **Mission** | Building scalable, high-impact software solutions |
+| 🗄️ **Database Enthusiast** | Designing efficient schemas with **MySQL** |
+| 🌐 **Web Dev** | Crafting clean UIs with **HTML, CSS & JavaScript** |
+| 📍 **Location** | Madhya Pradesh, India 🇮🇳 |
+| ⚡ **Fun Fact** | I turn coffee ☕ and complex logic into futuristic tech! |
+| 🏆 **Achievements** | Quickdraw · Pull Shark · YOLO on GitHub |
+
+</div>
 
 ---
 
@@ -87,10 +78,10 @@
 
 <div align="center">
   <a href="https://github.com/RavendraPatel09/Complete-DSA-Using-Cpp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RavendraPatel09&repo=Complete-DSA-Using-Cpp&theme=radical&hide_border=true&bg_color=0D1117" alt="DSA C++" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RavendraPatel09&repo=Complete-DSA-Using-Cpp&theme=tokyonight&hide_border=false&bg_color=EEF2FF&title_color=6366F1&icon_color=8B5CF6&text_color=1E1B4B&border_color=C7D2FE" alt="DSA C++" />
   </a>
   <a href="https://github.com/RavendraPatel09/Complete-DSA-using-python">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RavendraPatel09&repo=Complete-DSA-using-python&theme=radical&hide_border=true&bg_color=0D1117" alt="DSA Python" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RavendraPatel09&repo=Complete-DSA-using-python&theme=tokyonight&hide_border=false&bg_color=EEF2FF&title_color=6366F1&icon_color=8B5CF6&text_color=1E1B4B&border_color=C7D2FE" alt="DSA Python" />
   </a>
 </div>
 
@@ -98,10 +89,10 @@
 
 <div align="center">
   <a href="https://github.com/RavendraPatel09/findmystuff">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RavendraPatel09&repo=findmystuff&theme=radical&hide_border=true&bg_color=0D1117" alt="FindMyStuff" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RavendraPatel09&repo=findmystuff&theme=tokyonight&hide_border=false&bg_color=EEF2FF&title_color=6366F1&icon_color=8B5CF6&text_color=1E1B4B&border_color=C7D2FE" alt="FindMyStuff" />
   </a>
   <a href="https://github.com/RavendraPatel09/Portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RavendraPatel09&repo=Portfolio&theme=radical&hide_border=true&bg_color=0D1117" alt="Portfolio" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RavendraPatel09&repo=Portfolio&theme=tokyonight&hide_border=false&bg_color=EEF2FF&title_color=6366F1&icon_color=8B5CF6&text_color=1E1B4B&border_color=C7D2FE" alt="Portfolio" />
   </a>
 </div>
 
@@ -110,20 +101,20 @@
 ## 🌌 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RavendraPatel09&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true" alt="Ravendra's GitHub Stats" />
-  <img height="180em" src="https://streak-stats.demolab.com?user=RavendraPatel09&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RavendraPatel09&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&include_all_commits=true&bg_color=EEF2FF&title_color=6366F1&icon_color=8B5CF6&text_color=1E1B4B&border_color=C7D2FE" alt="Ravendra's GitHub Stats" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=RavendraPatel09&theme=tokyonight&hide_border=false&background=EEF2FF&ring=6366F1&fire=8B5CF6&currStreakLabel=6366F1&sideLabels=6366F1&currStreakNum=1E1B4B&sideNums=1E1B4B&dates=4B5563&border=C7D2FE" alt="GitHub Streak" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RavendraPatel09&layout=donut&theme=radical&hide_border=true&bg_color=0D1117&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RavendraPatel09&layout=compact&hide_border=false&langs_count=8&bg_color=EEF2FF&title_color=6366F1&text_color=1E1B4B&border_color=C7D2FE" alt="Top Languages" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RavendraPatel09&theme=react-dark&hide_border=true&bg_color=0D1117&color=00FF9D&line=00FF9D&point=FFFFFF" alt="Activity Graph" width="90%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RavendraPatel09&theme=github-light&hide_border=false&bg_color=EEF2FF&color=6366F1&line=8B5CF6&point=6366F1" alt="Activity Graph" width="90%" />
 </div>
 
 ---
@@ -175,6 +166,27 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
+
+---
+
+## 🧠 DSA Progress Tracker
+
+<div align="center">
+
+| 📚 Topic | ✅ Status |
+|:---|:---:|
+| Arrays & Strings | ![100%](https://img.shields.io/badge/100%25-00FF9D?style=flat-square) |
+| Linked Lists | ![90%](https://img.shields.io/badge/90%25-00FF9D?style=flat-square) |
+| Stacks & Queues | ![85%](https://img.shields.io/badge/85%25-00C49F?style=flat-square) |
+| Trees & BST | ![80%](https://img.shields.io/badge/80%25-00C49F?style=flat-square) |
+| Graphs | ![70%](https://img.shields.io/badge/70%25-FFD700?style=flat-square) |
+| Dynamic Programming | ![65%](https://img.shields.io/badge/65%25-FFD700?style=flat-square) |
+| Sorting & Searching | ![90%](https://img.shields.io/badge/90%25-00FF9D?style=flat-square) |
+| Hashing | ![80%](https://img.shields.io/badge/80%25-00C49F?style=flat-square) |
+
+</div>
+
+---
 
 ## 💡 Random Dev Quote
 
