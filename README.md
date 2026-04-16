@@ -1,43 +1,71 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Ravendra+Patel;Passionate+Developer;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
+  <img src="https://komarev.com/ghpvc/?username=RavendraPatel09&label=PROFILE+VIEWS&color=00FF9D&style=for-the-badge" alt="Profile Views" />
 </div>
 
-<h3 align="center">🚀 Building efficient, scalable solutions & exploring the world of Gen AI</h3>
+<br/>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF9D&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Ravendra+Patel+👋;Passionate+Developer+💻;Problem+Solver+🧠;Future+Tech+Innovator+🚀" alt="Typing SVG" />
+</div>
+
+<h3 align="center">⚡ Engineering the Future | Scalable Solutions & Generative AI</h3>
 
 ---
 
-## 🧠 About Me
-
-- 💻 I love working with **C, C++, and Python**
-- 🌱 Currently diving deep into **Data Structures, Databases & Generative AI**
-- 🎯 **Goal:** Become a highly skilled and impactful software developer
-- ⚡ **Fun Fact:** I enjoy turning complex problems into clean, functional code 🚀
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h2>🛸 About My Journey</h2>
+      <ul>
+        <li>💻 <b>Core Stack:</b> Writing robust code in <b>C, C++, and Python</b></li>
+        <li>🌱 <b>Current Focus:</b> Advanced <b>Data Structures, Databases, & Gen AI</b></li>
+        <li>🎯 <b>Mission:</b> Architecting scalable, high-impact software systems</li>
+        <li>⚡ <b>Quirk:</b> Translating coffee and complex logic into futuristic tech</li>
+      </ul>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <h2>🏆 GitHub Trophies</h2>
+      <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=RavendraPatel09&theme=radical&margin-w=15&column=3&no-bg=true&no-frame=true" alt="Trophies" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Arsenal
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,mysql&perline=6" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,mysql,git,linux,docker&perline=9&theme=dark" alt="Tech Stack" />
   </a>
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 🌌 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RavendraPatel09&show_icons=true&theme=tokyonight&hide_border=true" alt="Ravendra's GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=RavendraPatel09&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RavendraPatel09&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Ravendra's GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=RavendraPatel09&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
+
+<br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RavendraPatel09&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RavendraPatel09&theme=react-dark&hide_border=true&bg_color=0D1117" alt="Activity Graph" width="85%" />
 </div>
 
+<br>
 
-## 🔵 Contribution Graph Snake 🐍
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RavendraPatel09&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+</div>
+
+---
+
+## 🔵 Neural Contribution Grid 🐍
 
 <div align="center">
   <picture>
@@ -49,7 +77,7 @@
 
 ---
 
-## 📫 Connect With Me
+## 📡 Establish Connection
 
 <div align="center">
   <a href="mailto:patelsamerth9@gmail.com">
