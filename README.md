@@ -176,27 +176,6 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
 
----
-
-## 🧠 DSA Progress Tracker
-
-<div align="center">
-
-| 📚 Topic | ✅ Status |
-|:---|:---:|
-| Arrays & Strings | ![100%](https://img.shields.io/badge/100%25-00FF9D?style=flat-square) |
-| Linked Lists | ![90%](https://img.shields.io/badge/90%25-00FF9D?style=flat-square) |
-| Stacks & Queues | ![85%](https://img.shields.io/badge/85%25-00C49F?style=flat-square) |
-| Trees & BST | ![80%](https://img.shields.io/badge/80%25-00C49F?style=flat-square) |
-| Graphs | ![70%](https://img.shields.io/badge/70%25-FFD700?style=flat-square) |
-| Dynamic Programming | ![65%](https://img.shields.io/badge/65%25-FFD700?style=flat-square) |
-| Sorting & Searching | ![90%](https://img.shields.io/badge/90%25-00FF9D?style=flat-square) |
-| Hashing | ![80%](https://img.shields.io/badge/80%25-00C49F?style=flat-square) |
-
-</div>
-
----
-
 ## 💡 Random Dev Quote
 
 <div align="center">
