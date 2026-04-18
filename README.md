@@ -15,7 +15,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00FF9D&center=true&vCenter=true&width=600&lines=Hi+There!+I'm+Ravendra+Patel+👋;Passionate+Developer+💻;DSA+%26+Problem+Solver+🧠;Database+Architect+🗄️;Full-Stack+Web+Developer+🌐;Future+Tech+Innovator+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00FF9D&center=true&vCenter=true&width=600&lines=Hi+There!+I'm+Ravendra+Patel+👋;Passionate+Developer+💻;DSA+%26+Problem+Solver+🧠;Database+Architect+🗄️;Future+Tech+Innovator+🚀" alt="Typing SVG" />
 </div>
 
 <h3 align="center">⚡ Engineering the Future | Scalable Solutions & Clean Code</h3>
