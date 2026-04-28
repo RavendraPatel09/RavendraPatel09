@@ -249,34 +249,6 @@
 <br/>
 
 <!-- ══════════════════════════════════════════════════════════ -->
-<!--                     CODING ACTIVITY                         -->
-<!-- ══════════════════════════════════════════════════════════ -->
-
-## ⚡ Recent Activity & Coding Stats
-
-<div align="center">
-
-### 📊 Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-### 🔥 Recent GitHub Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
-</div>
-
-<br/>
-
-<!-- ══════════════════════════════════════════════════════════ -->
 <!--                 ACHIEVEMENTS & BADGES                       -->
 <!-- ══════════════════════════════════════════════════════════ -->
 
@@ -290,24 +262,6 @@
 ![Pull Shark](https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png)
 ![YOLO](https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png)
 
-### 📜 Certifications & Learning Milestones
-
-| Area | Achievement | Year |
-|:---:|:---:|:---:|
-| 🎓 DSA | Complete Data Structures Implementation | 2025 |
-| 💾 DBMS | Database Design & Optimization | 2025 |
-| 🌐 Web Dev | Full Stack Development Foundation | 2024 |
-| 🐍 Python | Advanced Python Programming | 2024 |
-
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
-</div>
-
-<br/>
 
 <!-- ══════════════════════════════════════════════════════════ -->
 <!--                      RANDOM QUOTE                           -->
@@ -316,7 +270,7 @@
 ## 💡 Developer Wisdom
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" alt="Dev Quote" width="80%" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" alt="Dev Quote" width="55%" />
 </div>
 
 <br/>
@@ -343,29 +297,6 @@
 
 <br/><br/>
 
-### 💌 Open for Opportunities
-
-```javascript
-const ravendra = {
-    pronouns: "He" | "Him",
-    location: "Madhya Pradesh, India 🇮🇳",
-    openToWork: true,
-    interests: ["DSA", "System Design", "Database Architecture", "Problem Solving"],
-    collaboration: "Always open to interesting projects and ideas!",
-    funFact: "I debug with coffee and solve problems with algorithms! ☕💻"
-};
-```
-
-<br/>
-
-### 📬 Want to Collaborate?
-
-I'm always excited to work on:
-- 🚀 Innovative Open Source Projects
-- 💡 Educational Tech Platforms
-- 🧠 Algorithm Optimization Challenges
-- 🗄️ Database Design Solutions
-- 🌐 Full Stack Applications
 
 **Feel free to reach out at [patelsamerth9@gmail.com](mailto:patelsamerth9@gmail.com)**
 
@@ -378,24 +309,6 @@ I'm always excited to work on:
 </div>
 
 <br/>
-
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--                    SUPPORT & SPONSOR                        -->
-<!-- ══════════════════════════════════════════════════════════ -->
-
-## 💖 Support My Work
-
-<div align="center">
-
-If you find my projects helpful or interesting, consider:
-
-⭐ **Starring** my repositories  
-👀 **Following** my GitHub profile  
-🍴 **Forking** and contributing to projects  
-📢 **Sharing** my work with others  
-
-<br/>
-
 **Your support motivates me to create more educational content and open-source projects!**
 
 </div>
@@ -426,14 +339,3 @@ If you find my projects helpful or interesting, consider:
   
   <br/>
   
-  **© 2026 Ravendra Patel. All Rights Reserved.**
-  
-  <br/>
-  
-  <sub>⭐ If this README inspired you, consider giving a star! ⭐</sub>
-  
-</div>
-
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--                       END OF README                         -->
-<!-- ══════════════════════════════════════════════════════════ -->
