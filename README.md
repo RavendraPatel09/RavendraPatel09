@@ -46,55 +46,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=RavendraPatel09&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub Trophies" width="100%" />
 </div>
 
-<br/>
-
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--                          ABOUT ME                           -->
-<!-- ══════════════════════════════════════════════════════════ -->
-
-## 🛸 About Me
-
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
-
-<div>
-
-```yaml
-name: Ravendra Patel
-located_in: Madhya Pradesh, India 🇮🇳
-current_role: Software Developer & Problem Solver
-education: Computer Science Engineering
-
-fields_of_interest:
-  - Data Structures & Algorithms
-  - System Design & Architecture
-  - Database Management Systems
-  - Full Stack Development
-  - Competitive Programming
-  
-technical_background:
-  - Advanced DSA in C++ & Python
-  - Database Design & Optimization
-  - Web Development (Frontend & Backend)
-  - Problem Solving & Logic Building
-  
-currently_learning:
-  - Advanced System Design Patterns
-  - Distributed Systems
-  - Cloud Technologies
-  - Microservices Architecture
-  
-achievements:
-  - "GitHub Achievements: Quickdraw, Pull Shark, YOLO"
-  - "Active Contributor to Open Source"
-  - "Building Educational DSA Resources"
-  
-fun_fact: "I transform coffee ☕ and complex algorithms into innovative tech solutions! 🚀"
-```
-
-</div>
-
-<br clear="right"/>
-
 ### 🎯 Current Focus
 
 - 🔭 **Working on:** Building comprehensive DSA learning resources
@@ -183,25 +134,6 @@ fun_fact: "I transform coffee ☕ and complex algorithms into innovative tech so
   </tr>
 </table>
 
-### 🌐 Web Development
-
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-      <br><b>HTML5</b>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
-      <br><b>CSS3</b>
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="Flask" />
-      <br><b>Flask</b>
-    </td>
-  </tr>
-</table>
-
 ### 🗄️ Database & Storage
 
 <table>
@@ -252,41 +184,11 @@ fun_fact: "I transform coffee ☕ and complex algorithms into innovative tech so
       <img src="https://img.icons8.com/color/96/000000/database.png" width="48" height="48" alt="DBMS" />
       <br><b>DBMS</b>
     </td>
-    <td align="center" width="150">
-      <img src="https://img.icons8.com/color/96/000000/system-task.png" width="48" height="48" alt="System Design" />
-      <br><b>System Design</b>
-    </td>
-  </tr>
-</table>
+
 
 </div>
 
 <br/>
-
-### 📈 Skill Proficiency Levels
-
-```text
-Programming Languages
-C++          ████████████████████░  95%
-Python       ███████████████████░░  90%
-C            █████████████████░░░░  85%
-JavaScript   ██████████████░░░░░░░  70%
-
-DSA & Problem Solving
-Algorithms   ████████████████████░  95%
-Data Struct. ███████████████████░░  90%
-Complexity   █████████████████░░░░  85%
-
-Database
-MySQL        ███████████████████░░  90%
-Query Opt.   ████████████████░░░░░  80%
-Design       ████████████████░░░░░  80%
-
-Web Development
-Frontend     ███████████████░░░░░░  75%
-Backend      ██████████████░░░░░░░  70%
-Flask        ███████████████░░░░░░  75%
-```
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
@@ -363,49 +265,6 @@ Flask        ███████████████░░░░░░  75
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
-
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
-</div>
-
-<br/>
-
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--                    LEARNING JOURNEY                         -->
-<!-- ══════════════════════════════════════════════════════════ -->
-
-## 📚 Learning Journey & Roadmap
-
-<div align="center">
-
-```mermaid
-graph LR
-    A[Fundamentals] --> B[DSA Mastery]
-    B --> C[Database Design]
-    C --> D[System Design]
-    D --> E[Distributed Systems]
-    E --> F[Cloud Architecture]
-    
-    style A fill:#00FF9D,stroke:#0D1117,color:#0D1117
-    style B fill:#FFD700,stroke:#0D1117,color:#0D1117
-    style C fill:#FF6B6B,stroke:#0D1117,color:#0D1117
-    style D fill:#00FF9D,stroke:#0D1117,color:#0D1117
-    style E fill:#FFD700,stroke:#0D1117,color:#0D1117
-    style F fill:#FF6B6B,stroke:#0D1117,color:#0D1117
-```
-
-### 🎯 Current Learning Goals (2026)
-
-| Quarter | Focus Area | Status |
-|:---:|:---:|:---:|
-| Q1 | Advanced DSA & Competitive Programming | 🔄 In Progress |
-| Q2 | System Design & Architecture Patterns | 📋 Planned |
-| Q3 | Cloud Technologies (AWS/Azure) | 📋 Planned |
-| Q4 | Microservices & Distributed Systems | 📋 Planned |
 
 </div>
 
