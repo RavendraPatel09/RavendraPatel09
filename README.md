@@ -3,7 +3,9 @@
 <!--                    Advanced Enhanced Version                -->
 <!-- ══════════════════════════════════════════════════════════ -->
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ravendra%20Patel&fontSize=50&fontColor=fff&animation=twinkling7C%20DSA%20Expert%20%7C%20Database%20Architect&descAlignY=55&descSize=20" width="100%" />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ravendra%20Patel&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=40" width="100%" />
+</div>
 
 
 <!-- ══════════════════════════════════════════════════════════ -->
@@ -25,10 +27,10 @@
 <!--                     ANIMATED TYPING TEXT                    -->
 <!-- ══════════════════════════════════════════════════════════ -->
 
+ 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00FF9D&center=true&vCenter=true&width=700&lines=Hi+There!+I'm+Ravendra+Patel+👋;Passionate+Full+Stack+Developer+💻;DSA+%26+Algorithm+Specialist+🧠;Database+Architecture+Expert+🗄️;System+Design+Enthusiast+⚙️;Building+Scalable+Solutions+🚀;Clean+Code+Advocate+✨;Future+Tech+Innovator+🌟" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00FF9D&center=true&vCenter=true&width=700&lines=Hi+There!+I'm+Ravendra+Patel+👋;Aspiring+Software+Developer+💻;Learning+DSA+%26+Problem+Solving+🧠;Exploring+Database+Systems+🗄️;Building+Projects+%26+Growing+🚀;Writing+Clean+Code+✨;Future+Tech+Enthusiast+🌟" alt="Typing SVG" />
 </div>
-
 <h2 align="center">⚡ Engineering the Future with Scalable Solutions & Clean Code ⚡</h2>
 
 <div align="center">
@@ -36,15 +38,6 @@
 </div>
 
 <br/>
-
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--                    GITHUB PROFILE TROPHY                    -->
-<!-- ══════════════════════════════════════════════════════════ -->
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RavendraPatel09&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub Trophies" width="100%" />
-</div>
-
 ### 🎯 Current Focus
 
 - 🔭 **Working on:** Building comprehensive DSA learning resources
