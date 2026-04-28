@@ -3,6 +3,7 @@
 <!--                    Advanced Enhanced Version                -->
 <!-- ══════════════════════════════════════════════════════════ -->
 
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ravendra%20Patel&fontSize=50&fontColor=fff&animation=twinkling7C%20DSA%20Expert%20%7C%20Database%20Architect&descAlignY=55&descSize=20" width="100%" />
 
 
 <!-- ══════════════════════════════════════════════════════════ -->
