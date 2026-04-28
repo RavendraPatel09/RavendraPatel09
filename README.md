@@ -96,15 +96,6 @@
   </a>
 </div>
 
----
-
-## 🌌 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RavendraPatel09&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&include_all_commits=true&bg_color=EEF2FF&title_color=6366F1&icon_color=8B5CF6&text_color=1E1B4B&border_color=C7D2FE" alt="Ravendra's GitHub Stats" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=RavendraPatel09&theme=tokyonight&hide_border=false&background=EEF2FF&ring=6366F1&fire=8B5CF6&currStreakLabel=6366F1&sideLabels=6366F1&currStreakNum=1E1B4B&sideNums=1E1B4B&dates=4B5563&border=C7D2FE" alt="GitHub Streak" />
-</div>
-
 <br/>
 
 <div align="center">
