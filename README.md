@@ -60,14 +60,14 @@
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=RavendraPatel09&show_icons=true&theme=radical&hide_border=false&bg_color=0D1117&title_color=00FF9D&icon_color=FFD700&text_color=FFFFFF&border_color=00FF9D&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=RavendraPatel09&theme=radical&hide_border=false&background=0D1117&stroke=00FF9D&ring=FFD700&fire=FF6B6B&currStreakLabel=00FF9D&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=AAAAAA&border=00FF9D" alt="GitHub Streak" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=RavendraPatel09&show_icons=true&theme=radical&hide_border=false&bg_color=0D1117&title_color=00FF9D&icon_color=FFD700&text_color=FFFFFF&border_color=00FF9D&include_all_commits=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=RavendraPatel09&theme=radical&hide_border=false&background=0D1117&stroke=00FF9D&ring=FFD700&fire=FF6B6B&currStreakLabel=00FF9D&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=AAAAAA&border=00FF9D" alt="GitHub Streak" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RavendraPatel09&layout=compact&theme=radical&hide_border=false&bg_color=0D1117&title_color=00FF9D&text_color=FFFFFF&border_color=00FF9D&langs_count=10&hide=jupyter%20notebook" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RavendraPatel09&layout=compact&theme=radical&hide_border=false&bg_color=0D1117&title_color=00FF9D&text_color=FFFFFF&border_color=00FF9D&langs_count=10&hide=jupyter%20notebook&cache_seconds=1800" alt="Top Languages" />
   <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=RavendraPatel09&limit=5&theme=radical&hide_border=false&bg_color=0D1117&title_color=00FF9D&text_color=FFFFFF&border_color=00FF9D" alt="Top Contributed Repos" />
 </div>
 
@@ -202,12 +202,12 @@
   <tr>
     <td width="50%">
       <a href="https://github.com/RavendraPatel09/Complete-DSA-Using-Cpp">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=RavendraPatel09&repo=Complete-DSA-Using-Cpp&theme=radical&hide_border=false&bg_color=0D1117&title_color=00FF9D&icon_color=FFD700&text_color=FFFFFF&border_color=00FF9D" alt="DSA C++" width="100%" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=RavendraPatel09&repo=Complete-DSA-Using-Cpp&theme=radical&hide_border=false&bg_color=0D1117&title_color=00FF9D&icon_color=FFD700&text_color=FFFFFF&border_color=00FF9D&cache_seconds=1800" alt="DSA C++" width="100%" />
       </a>
     </td>
     <td width="50%">
       <a href="https://github.com/RavendraPatel09/Complete-DSA-using-python">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=RavendraPatel09&repo=Complete-DSA-using-python&theme=radical&hide_border=false&bg_color=0D1117&title_color=00FF9D&icon_color=FFD700&text_color=FFFFFF&border_color=00FF9D" alt="DSA Python" width="100%" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=RavendraPatel09&repo=Complete-DSA-using-python&theme=radical&hide_border=false&bg_color=0D1117&title_color=00FF9D&icon_color=FFD700&text_color=FFFFFF&border_color=00FF9D&cache_seconds=1800" alt="DSA Python" width="100%" />
       </a>
     </td>
   </tr>
@@ -219,12 +219,12 @@
   <tr>
     <td width="50%">
       <a href="https://github.com/RavendraPatel09/findmystuff">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=RavendraPatel09&repo=findmystuff&theme=radical&hide_border=false&bg_color=0D1117&title_color=00FF9D&icon_color=FFD700&text_color=FFFFFF&border_color=00FF9D" alt="FindMyStuff" width="100%" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=RavendraPatel09&repo=findmystuff&theme=radical&hide_border=false&bg_color=0D1117&title_color=00FF9D&icon_color=FFD700&text_color=FFFFFF&border_color=00FF9D&cache_seconds=1800" alt="FindMyStuff" width="100%" />
       </a>
     </td>
     <td width="50%">
       <a href="https://github.com/RavendraPatel09/Portfolio">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=RavendraPatel09&repo=Portfolio&theme=radical&hide_border=false&bg_color=0D1117&title_color=00FF9D&icon_color=FFD700&text_color=FFFFFF&border_color=00FF9D" alt="Portfolio" width="100%" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=RavendraPatel09&repo=Portfolio&theme=radical&hide_border=false&bg_color=0D1117&title_color=00FF9D&icon_color=FFD700&text_color=FFFFFF&border_color=00FF9D&cache_seconds=1800" alt="Portfolio" width="100%" />
       </a>
     </td>
   </tr>
@@ -326,5 +326,3 @@
   <img src="https://forthebadge.com/images/badges/makes-people-smile.svg" />
   
   <br/>
-
-  
