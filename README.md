@@ -288,8 +288,6 @@
 </a>
 
 <br/><br/>
-
-
 **Feel free to reach out at [patelsamerth9@gmail.com](mailto:patelsamerth9@gmail.com)**
 
 </div>
