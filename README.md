@@ -9,7 +9,6 @@
 <!-- ══════════════════════════════════════════════════════════ -->
 <!--                        BADGES & STATS                       -->
 <!-- ══════════════════════════════════════════════════════════ -->
-
 <div align="center">
   
   [![Profile Views](https://komarev.com/ghpvc/?username=RavendraPatel09&label=PROFILE+VIEWS&color=00FF9D&style=for-the-badge)](https://github.com/RavendraPatel09)
