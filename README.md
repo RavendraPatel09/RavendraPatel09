@@ -6,16 +6,18 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ravendra%20Patel&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=40" width="100%" />
 </div>
+
 <!-- ══════════════════════════════════════════════════════════ -->
 <!--                        BADGES & STATS                       -->
 <!-- ══════════════════════════════════════════════════════════ -->
+
 <div align="center">
-  
-  [![Profile Views](https://komarev.com/ghpvc/?username=RavendraPatel09&label=PROFILE+VIEWS&color=00FF9D&style=for-the-badge)](https://github.com/RavendraPatel09)
-  [![Followers](https://img.shields.io/github/followers/RavendraPatel09?label=FOLLOWERS&style=for-the-badge&color=00FF9D&labelColor=0D1117)](https://github.com/RavendraPatel09?tab=followers)
-  [![Stars](https://img.shields.io/github/stars/RavendraPatel09?label=TOTAL+STARS&style=for-the-badge&color=FFD700&labelColor=0D1117)](https://github.com/RavendraPatel09?tab=repositories)
-  [![Repos](https://img.shields.io/badge/REPOSITORIES-Dynamic-blueviolet?style=for-the-badge&labelColor=0D1117)](https://github.com/RavendraPatel09?tab=repositories)
-  
+
+[![Profile Views](https://komarev.com/ghpvc/?username=RavendraPatel09&label=PROFILE+VIEWS&color=00FF9D&style=for-the-badge)](https://github.com/RavendraPatel09)
+[![Followers](https://img.shields.io/github/followers/RavendraPatel09?label=FOLLOWERS&style=for-the-badge&color=00FF9D&labelColor=0D1117)](https://github.com/RavendraPatel09?tab=followers)
+[![Stars](https://img.shields.io/github/stars/RavendraPatel09?label=TOTAL+STARS&style=for-the-badge&color=FFD700&labelColor=0D1117)](https://github.com/RavendraPatel09?tab=repositories)
+[![Repos](https://img.shields.io/badge/REPOSITORIES-Dynamic-blueviolet?style=for-the-badge&labelColor=0D1117)](https://github.com/RavendraPatel09?tab=repositories)
+
 </div>
 
 <br/>
@@ -24,10 +26,10 @@
 <!--                     ANIMATED TYPING TEXT                    -->
 <!-- ══════════════════════════════════════════════════════════ -->
 
- 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00FF9D&center=true&vCenter=true&width=700&lines=Hi+There!+I'm+Ravendra+Patel+👋;Aspiring+Software+Developer+💻;Learning+DSA+%26+Problem+Solving+🧠;Exploring+Database+Systems+🗄️;Building+Projects+%26+Growing+🚀;Writing+Clean+Code+✨;Future+Tech+Enthusiast+🌟" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00FF9D&center=true&vCenter=true&width=700&lines=Hi+There!+I'm+Ravendra+Patel+%F0%9F%91%8B;Aspiring+Software+Developer+%F0%9F%92%BB;Learning+DSA+%26+Problem+Solving+%F0%9F%A7%A0;Exploring+Database+Systems+%F0%9F%97%84%EF%B8%8F;Building+Projects+%26+Growing+%F0%9F%9A%80;Writing+Clean+Code+%E2%9C%A8;Future+Tech+Enthusiast+%F0%9F%8C%9F" alt="Typing SVG" />
 </div>
+
 <h2 align="center">⚡ Engineering the Future with Scalable Solutions & Clean Code ⚡</h2>
 
 <div align="center">
@@ -35,7 +37,8 @@
 </div>
 
 <br/>
-### 🎯 Current Focus
+
+## 🎯 Current Focus
 
 - 🔭 **Working on:** Building comprehensive DSA learning resources
 - 🌱 **Learning:** Advanced System Design, Cloud Architecture, and Distributed Systems
@@ -70,14 +73,12 @@
 
 <br/>
 
-<!-- Activity Graph -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RavendraPatel09&theme=react-dark&hide_border=false&bg_color=0D1117&color=00FF9D&line=FFD700&point=FF6B6B&area=true&area_color=00FF9D" alt="Activity Graph" width="95%" />
 </div>
 
 <br/>
 
-<!-- Contribution Snake -->
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RavendraPatel09/RavendraPatel09/output/github-contribution-grid-snake-dark.svg">
@@ -173,7 +174,8 @@
       <img src="https://img.icons8.com/color/96/000000/database.png" width="48" height="48" alt="DBMS" />
       <br><b>DBMS</b>
     </td>
-
+  </tr>
+</table>
 
 </div>
 
@@ -247,10 +249,13 @@
 
 ### 🎖️ GitHub Achievements
 
-![Quickdraw](https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png)
-![Pull Shark](https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png)
-![YOLO](https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png)
+<img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="80" alt="Quickdraw" />
+<img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="80" alt="Pull Shark" />
+<img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="80" alt="YOLO" />
 
+</div>
+
+<br/>
 
 <!-- ══════════════════════════════════════════════════════════ -->
 <!--                      RANDOM QUOTE                           -->
@@ -285,6 +290,7 @@
 </a>
 
 <br/><br/>
+
 **Feel free to reach out at [patelsamerth9@gmail.com](mailto:patelsamerth9@gmail.com)**
 
 </div>
@@ -296,6 +302,9 @@
 </div>
 
 <br/>
+
+<div align="center">
+
 **Your support motivates me to create more educational content and open-source projects!**
 
 </div>
@@ -311,13 +320,13 @@
 </div>
 
 <div align="center">
-  
-  ### ⚡ "Code is like humor. When you have to explain it, it's bad." - Cory House
-  
-  <br/>
-  
-  <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
-  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" />
-  <img src="https://forthebadge.com/images/badges/makes-people-smile.svg" />
-  
-  <br/>
+
+### ⚡ "Code is like humor. When you have to explain it, it's bad." - Cory House
+
+<br/>
+
+<img src="https://forthebadge.com/images/badges/built-with-love.svg" />
+<img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" />
+<img src="https://forthebadge.com/images/badges/makes-people-smile.svg" />
+
+</div>
