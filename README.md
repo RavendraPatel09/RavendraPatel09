@@ -16,9 +16,14 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=RavendraPatel09&label=PROFILE+VIEWS&color=00FF9D&style=for-the-badge)](https://github.com/RavendraPatel09)
 [![Followers](https://img.shields.io/github/followers/RavendraPatel09?label=FOLLOWERS&style=for-the-badge&color=00FF9D&labelColor=0D1117)](https://github.com/RavendraPatel09?tab=followers)
 [![Stars](https://img.shields.io/github/stars/RavendraPatel09?label=TOTAL+STARS&style=for-the-badge&color=FFD700&labelColor=0D1117)](https://github.com/RavendraPatel09?tab=repositories)
-[![Repos](https://img.shields.io/badge/REPOSITORIES-Dynamic-blueviolet?style=for-the-badge&labelColor=0D1117)](https://github.com/RavendraPatel09?tab=repositories)
+[![Repos](https://img.shields.io/badge/REPOSITORIES-26-blueviolet?style=for-the-badge&labelColor=0D1117)](https://github.com/RavendraPatel09?tab=repositories)
+[![Location](https://img.shields.io/badge/📍-Madhya%20Pradesh%2C%20India-00FF9D?style=for-the-badge&labelColor=0D1117)](https://github.com/RavendraPatel09)
 
 </div>
+
+<p align="center">
+  <i>"Love to learn new technologies and work with them."</i>
+</p>
 
 <br/>
 
@@ -45,6 +50,7 @@
 - 👯 **Looking to collaborate on:** Open Source Projects and Innovative Tech Solutions
 - 💬 **Ask me about:** DSA, Database Design, Python, C++, Problem Solving
 - 📫 **How to reach me:** [patelsamerth9@gmail.com](mailto:patelsamerth9@gmail.com)
+- 📍 **Based in:** Madhya Pradesh, India
 - ⚡ **Philosophy:** Write code that's clean, scalable, and maintainable
 
 <div align="center">
@@ -194,6 +200,19 @@
 ## 🚀 Featured Projects & Repositories
 
 <div align="center">
+
+### 📌 Pinned Highlight
+
+<table>
+  <tr>
+    <td width="100%">
+      <a href="https://github.com/RavendraPatel09/smart_bhopal_backend">
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=RavendraPatel09&repo=smart_bhopal_backend&theme=radical&hide_border=false&bg_color=0D1117&title_color=00FF9D&icon_color=FFD700&text_color=FFFFFF&border_color=00FF9D&cache_seconds=1800" alt="Smart Bhopal Backend" width="100%" />
+      </a>
+      <p><b>Smart City Backend for Bhopal</b> — IoT integration, real-time traffic monitoring, utilities management, citizen services, and analytics. Built with Python.</p>
+    </td>
+  </tr>
+</table>
 
 ### 🎯 Data Structures & Algorithms
 
