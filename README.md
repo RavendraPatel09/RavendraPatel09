@@ -13,6 +13,7 @@
 <a href="https://www.linkedin.com/in/ravendra-patel-3bb375338/"><img src="https://img.shields.io/badge/LinkedIn-0F172A?style=flat-square&logo=linkedin&logoColor=38BDF8" /></a>
 <a href="https://github.com/RavendraPatel09"><img src="https://img.shields.io/badge/GitHub-0F172A?style=flat-square&logo=github&logoColor=38BDF8" /></a>
 <img src="https://img.shields.io/badge/Madhya%20Pradesh%2C%20India-0F172A?style=flat-square&logo=googlemaps&logoColor=38BDF8" />
+<img src="https://komarev.com/ghpvc/?username=RavendraPatel09&style=flat-square&color=38BDF8&label=Profile+Views" />
 
 </div>
 
@@ -24,7 +25,7 @@
 
 ## About
 
-I'm a software developer focused on **data structures, algorithms, and backend systems**. Currently deepening my expertise in system design, cloud architecture, and distributed systems — with a particular interest in building infrastructure that scales cleanly.
+Software developer focused on **data structures, algorithms, and backend systems**, currently deepening expertise in system design, cloud architecture, and distributed systems — with a particular interest in building infrastructure that scales cleanly.
 
 | | |
 |---|---|
@@ -144,9 +145,7 @@ Smart City backend infrastructure for Bhopal — IoT integration, real-time traf
 
 <div align="center">
 
-<img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="72" />
-<img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="72" />
-<img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="72" />
+<img src="https://github-profile-trophy.vercel.app/?username=RavendraPatel09&theme=tokyonight&column=4&margin-w=12&margin-h=12&no-frame=true&no-bg=true" />
 
 </div>
 
