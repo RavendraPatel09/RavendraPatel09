@@ -1,84 +1,55 @@
-<!-- ══════════════════════════════════════════════════════════ -->
-<!--                  RAVENDRA PATEL — README                    -->
-<!--              Professional Portfolio Edition                 -->
-<!-- ══════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:1E293B&height=200&section=header&text=Ravendra%20Patel&fontSize=46&fontColor=38BDF8&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20DSA%20%7C%20Backend%20Systems&descAlignY=58&descSize=18&descColor=94A3B8" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:1E293B&height=180&section=header&text=Ravendra%20Patel&fontSize=42&fontColor=38BDF8&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%C2%B7%20DSA%20%26%20Backend%20Systems&descAlignY=58&descSize=16&descColor=94A3B8" width="100%"/>
 
-<br/>
+<p>
+<a href="mailto:patelsamerth9@gmail.com"><img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=38BDF8" /></a>
+<a href="https://www.linkedin.com/in/ravendra-patel-3bb375338/"><img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=38BDF8" /></a>
+<a href="https://github.com/RavendraPatel09"><img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=38BDF8" /></a>
+</p>
 
-<a href="mailto:patelsamerth9@gmail.com"><img src="https://img.shields.io/badge/Email-0F172A?style=flat-square&logo=gmail&logoColor=38BDF8" /></a>
-<a href="https://www.linkedin.com/in/ravendra-patel-3bb375338/"><img src="https://img.shields.io/badge/LinkedIn-0F172A?style=flat-square&logo=linkedin&logoColor=38BDF8" /></a>
-<a href="https://github.com/RavendraPatel09"><img src="https://img.shields.io/badge/GitHub-0F172A?style=flat-square&logo=github&logoColor=38BDF8" /></a>
-<img src="https://img.shields.io/badge/Madhya%20Pradesh%2C%20India-0F172A?style=flat-square&logo=googlemaps&logoColor=38BDF8" />
 <img src="https://komarev.com/ghpvc/?username=RavendraPatel09&style=flat-square&color=38BDF8&label=Profile+Views" />
 
 </div>
 
 <br/>
 
-> *"Love to learn new technologies and work with them."*
+### About Me
+
+I'm a software developer based in Madhya Pradesh, India, focused on **data structures & algorithms** and **backend systems**. I'm currently deepening my knowledge of **system design, cloud architecture, and distributed systems** — with a particular interest in infrastructure that scales cleanly under real-world load.
+
+```text
+const ravendra = {
+  currentlyBuilding: "Comprehensive DSA learning resources",
+  currentlyLearning: ["System Design", "Cloud Architecture", "Distributed Systems"],
+  openTo: "Open-source collaboration & applied engineering projects",
+  askMeAbout: ["DSA", "Database Design", "Python", "C++"],
+};
+```
 
 <br/>
 
-## About
-
-Software developer focused on **data structures, algorithms, and backend systems**, currently deepening expertise in system design, cloud architecture, and distributed systems — with a particular interest in building infrastructure that scales cleanly.
-
-| | |
-|---|---|
-| 🔭 **Currently building** | Comprehensive DSA learning resources |
-| 🌱 **Currently learning** | System Design · Cloud Architecture · Distributed Systems |
-| 🤝 **Open to** | Open-source collaboration & applied engineering projects |
-| 💬 **Ask me about** | DSA · Database Design · Python · C++ |
-| 📫 **Reach me at** | [patelsamerth9@gmail.com](mailto:patelsamerth9@gmail.com) |
-
-<br/>
-
----
-
-## Tech Stack
+### Tech Stack
 
 <table width="100%">
 <tr>
-<td valign="top" width="25%">
-
-**Languages**
-
+<td align="center" valign="top"><b>Languages</b><br/><br/>
 <img src="https://skillicons.dev/icons?i=python,cpp,c,js&theme=dark" />
-
 </td>
-<td valign="top" width="25%">
-
-**Database**
-
+<td align="center" valign="top"><b>Database</b><br/><br/>
 <img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
-
 </td>
-<td valign="top" width="25%">
-
-**Tooling**
-
+<td align="center" valign="top"><b>Tooling</b><br/><br/>
 <img src="https://skillicons.dev/icons?i=git,github,linux,vscode&theme=dark" />
-
-</td>
-<td valign="top" width="25%">
-
-**Foundations**
-
-Data Structures · Algorithms · DBMS
-
 </td>
 </tr>
 </table>
 
+**Core foundations:** Data Structures · Algorithms · DBMS · OOP
+
 <br/>
 
----
-
-## GitHub Activity
+### GitHub Stats
 
 <table width="100%">
 <tr>
@@ -93,60 +64,50 @@ Data Structures · Algorithms · DBMS
 
 <img width="100%" src="https://streak-stats.demolab.com/?user=RavendraPatel09&theme=tokyonight&hide_border=true&background=0F172A&stroke=38BDF8&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=CBD5E1&currStreakNum=FFFFFF&dates=64748B" />
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=RavendraPatel09&theme=react-dark&hide_border=true&bg_color=0F172A&color=38BDF8&line=38BDF8&point=FFFFFF&area=true&area_color=1E293B" />
-
 <br/>
 
----
+### Flagship Project
 
-## Flagship Project
-
-<table width="100%">
-<tr>
-<td width="100%">
-
-### 🏙️ Smart Bhopal Backend
-Smart City backend infrastructure for Bhopal — IoT integration, real-time traffic monitoring, utilities management, citizen services, and analytics.
-
+**🏙️ Smart Bhopal Backend** — Smart city backend infrastructure for Bhopal, covering IoT integration, real-time traffic monitoring, utilities management, citizen services, and analytics.
 `Python` · [View Repository →](https://github.com/RavendraPatel09/smart_bhopal_backend)
 
-</td>
-</tr>
-</table>
-
 <br/>
 
-## Other Projects
+### Other Projects
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
+<a href="https://github.com/RavendraPatel09/Complete-DSA-Using-Cpp">
 <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=RavendraPatel09&repo=Complete-DSA-Using-Cpp&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=38BDF8&icon_color=38BDF8&text_color=CBD5E1" />
+</a>
 </td>
 <td width="50%" valign="top">
+<a href="https://github.com/RavendraPatel09/Complete-DSA-using-python">
 <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=RavendraPatel09&repo=Complete-DSA-using-python&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=38BDF8&icon_color=38BDF8&text_color=CBD5E1" />
+</a>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
+<a href="https://github.com/RavendraPatel09/findmystuff">
 <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=RavendraPatel09&repo=findmystuff&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=38BDF8&icon_color=38BDF8&text_color=CBD5E1" />
+</a>
 </td>
 <td width="50%" valign="top">
+<a href="https://github.com/RavendraPatel09/Portfolio">
 <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=RavendraPatel09&repo=Portfolio&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=38BDF8&icon_color=38BDF8&text_color=CBD5E1" />
+</a>
 </td>
 </tr>
 </table>
 
 <br/>
 
----
-
-## Achievements
+### Achievements
 
 <div align="center">
-
 <img src="https://github-profile-trophy.vercel.app/?username=RavendraPatel09&theme=tokyonight&column=4&margin-w=12&margin-h=12&no-frame=true&no-bg=true" />
-
 </div>
 
 <br/>
@@ -155,14 +116,10 @@ Smart City backend infrastructure for Bhopal — IoT integration, real-time traf
 
 <div align="center">
 
-**"Code is like humor. When you have to explain it, it's bad." — Cory House**
-
-<br/>
+**"Code is like humor. When you have to explain it, it's bad."** — Cory House
 
 <sub>Thanks for stopping by — feel free to reach out at <a href="mailto:patelsamerth9@gmail.com">patelsamerth9@gmail.com</a></sub>
 
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:1E293B&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:1E293B&height=100&section=footer" width="100%"/>
 
 </div>
