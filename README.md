@@ -59,16 +59,20 @@ Software developer from Madhya Pradesh, India, working mainly with **DSA and bac
 ## `04.` GitHub Stats
 
 <div align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=RavendraPatel09&show_icons=true&theme=radical&hide_border=true&bg_color=0D0B21&title_color=A78BFA&icon_color=A78BFA&text_color=C4B5FD&include_all_commits=true&count_private=true" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RavendraPatel09&layout=compact&theme=radical&hide_border=true&bg_color=0D0B21&title_color=A78BFA&text_color=C4B5FD&langs_count=8" />
-</div>
 
-<div align="center">
-<img width="100%" src="https://streak-stats.demolab.com/?user=RavendraPatel09&theme=radical&hide_border=true&background=0D0B21&stroke=A78BFA&ring=A78BFA&fire=F59E0B&currStreakLabel=A78BFA&sideLabels=C4B5FD&currStreakNum=FFFFFF&dates=6D28D9" />
-</div>
+<img width="32%" src="https://github-readme-stats.vercel.app/api?username=RavendraPatel09&show_icons=true&theme=radical&hide_border=true&bg_color=0D0B21&title_color=A78BFA&icon_color=A78BFA&text_color=C4B5FD&include_all_commits=true&count_private=true" />
+<img width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RavendraPatel09&layout=compact&theme=radical&hide_border=true&bg_color=0D0B21&title_color=A78BFA&text_color=C4B5FD&langs_count=8" />
+<img width="32%" src="https://github-readme-stats.vercel.app/api/wakatime?username=RavendraPatel09&theme=radical&hide_border=true&bg_color=0D0B21&title_color=A78BFA&text_color=C4B5FD&layout=compact" />
 
 <br/>
 
+<img width="100%" src="https://streak-stats.demolab.com/?user=RavendraPatel09&theme=radical&hide_border=true&background=0D0B21&stroke=A78BFA&ring=A78BFA&fire=F59E0B&currStreakLabel=A78BFA&sideLabels=C4B5FD&currStreakNum=FFFFFF&dates=6D28D9" />
+
+<br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=RavendraPatel09&theme=redical&bg_color=0D0B21&color=A78BFA&line=A78BFA&point=F59E0B&area=true&area_color=312E81&hide_border=true&custom_title=Contribution%20Activity" />
+
+</div>
 ## `05.` Trophies
 
 <div align="center">
